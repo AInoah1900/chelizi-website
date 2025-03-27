@@ -120,7 +120,7 @@ export default function Hero() {
                         <div className="flex items-start gap-3">
                           <FaCertificate className="text-xl text-red-500 mt-1 flex-shrink-0" />
                           <p className="text-gray-600">
-                          人邮出版社旗下"大数据"师资培训、腾讯旗下"人工智能与大数据"师资培训、国家专业技术人才旗下"人工智能应用"高级项目培训认证
+                          人邮出版社旗下&quot;大数据&quot;师资培训、腾讯旗下&quot;人工智能与大数据&quot;师资培训、国家专业技术人才旗下&quot;人工智能应用&quot;高级项目培训认证
                           </p>
                         </div>
                       </div>
