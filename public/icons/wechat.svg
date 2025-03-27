@@ -1,0 +1,12 @@
+<svg width="96" height="120" viewBox="0 0 96 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="48" cy="48" r="48" fill="white"/>
+  <g transform="translate(12,8) scale(3)">
+    {/* 居中的单个气泡 */}
+    <path d="M12 2C5.8 2 1 6.8 1 12.7C1 15.6 2.1 18.2 4 20L1.8 23.8L4.6 21.7C6.8 22.1 9.3 22.4 12 22.4C18.2 22.4 23 17.6 23 11.7C23 5.8 18.2 2 12 2Z" fill="#07C160"/>
+    {/* 眼睛 */}
+    <circle cx="8" cy="11" r="1.3" fill="white"/>
+    <circle cx="16" cy="11" r="1.3" fill="white"/>
+  </g>
+  {/* 调整文字大小和位置 */}
+  <text x="48" y="115" text-anchor="middle" font-size="26" font-weight="500" fill="#666666" font-family="system-ui, -apple-system">联系我</text>
+</svg> 
