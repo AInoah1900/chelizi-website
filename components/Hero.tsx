@@ -55,7 +55,7 @@ export default function Hero() {
             className="h-full flex items-center"
           >
             <h2 className="text-3xl font-bold bg-gradient-to-r from-red-600 via-pink-500 to-red-400 bg-clip-text text-transparent">
-              chelizi.AI
+              chelizi.TOP
             </h2>
           </motion.div>
         </div>

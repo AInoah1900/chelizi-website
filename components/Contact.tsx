@@ -12,7 +12,7 @@ export default function Contact() {
             如果您对 AI 技术有任何想法或合作意向，欢迎与我联系
           </p>
           <a 
-            href="mailto:contact@chelizi.ai" 
+            href="mailto:contact@chelizi.TOP" 
             className="inline-block px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
           >
             发送邮件

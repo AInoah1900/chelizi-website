@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'chelizi.AI - AI Coder数字游民',
+  title: 'chelizi.TOP - AI Coder数字游民',
   description: 'AI Coder | 第一代AI编程个体开发者',
   icons: {
     icon: '/avatar.svg',
