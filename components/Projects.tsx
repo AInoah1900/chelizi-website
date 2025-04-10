@@ -123,35 +123,35 @@ export default function Projects() {
   const products = [
     {
       title: "DeepSeek小助手",
-      url: "https://www.deepseek.com",
+      url: "https://www.ai-demo.top/",
       description: "AI小助手改写文章，基于DeepSeek各种大语言模型，帮您方便快捷生成满意的内容",
       bgImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop",
       category: 'product' as const
     },
     {
       title: "Notion头像生成",
-      url: "/products/notion-avatar",
+      url: "https://ai-avatar.help/",
       description: "免费生成您喜欢Notion风格头像，支持PNG、SVG格式",
       bgImage: "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=800&auto=format&fit=crop",
       category: 'product' as const
     },
     {
       title: "智慧学习助手",
-      url: "/products/learning-assistant",
+      url: "https://www.ainoah.top/",
       description: "一个人工智能助手，专门设计用于回答问题、提供帮助和交流，旨在帮助初中生培养学习兴趣和创新思考能力",
       bgImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&auto=format&fit=crop",
       category: 'product' as const
     },
     {
       title: "职业规划大师",
-      url: "/products/career-planner",
+      // url: "/products/career-planner",
       description: "通过大数据筛选符合您当前状况的职位，并给予针对性的未来职业规划建议",
       bgImage: "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?w=800&auto=format&fit=crop",
       category: 'product' as const
     },
     {
       title: "AI Coder 学习网站",
-      url: "/products/ai-coder",
+      // url: "/products/ai-coder",
       description: "帮助新手小白提升使用AI的能力",
       bgImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop",
       category: 'product' as const
@@ -168,21 +168,21 @@ export default function Projects() {
     },
     {
       title: "从0开始：AI 开发iOS APP",
-      url: "/courses/ai-ios-app",
+      // url: "/courses/ai-ios-app",
       description: "让您从0开始使用AI开发自己第一个iOS app，提供上架app store指导",
       bgImage: "https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=800&auto=format&fit=crop",
       category: 'course' as const
     },
     {
       title: "从0开始：AI 生成办公PPT",
-      url: "/courses/ai-ppt",
+      // url: "/courses/ai-ppt",
       description: "让您通过AI生成满意的PPT内容，远离办公烦恼",
       bgImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop",
       category: 'course' as const
     },
     {
       title: "从0开始：AI 生成IP视频",
-      url: "/courses/ai-video",
+      // url: "/courses/ai-video",
       description: "让您通过AI打造个人IP视频，打造一人自媒体工作室",
       bgImage: "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&auto=format&fit=crop",
       category: 'course' as const
@@ -192,7 +192,7 @@ export default function Projects() {
   const services = [
     {
       title: "1 对 1 咨询",
-      url: "/services/consultation",
+      // url: "/services/consultation",
       description: "为您提供个性化AI编程、AI产品设计以及AI市场分析预测等方面专业咨询服务",
       price: "999 元/小时",
       bgImage: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&auto=format&fit=crop",
@@ -200,7 +200,7 @@ export default function Projects() {
     },
     {
       title: "AI编程项目陪跑",
-      url: "/services/ai-project",
+      // url: "/services/ai-project",
       description: "10小时深度参与，助您从0到1完成AI项目设计、开发和营销等",
       price: "9,999 元/月",
       bgImage: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop",
@@ -208,7 +208,7 @@ export default function Projects() {
     },
     {
       title: "企业AI提效/编程培训",
-      url: "/services/enterprise-training",
+      // url: "/services/enterprise-training",
       description: "为企业提供定制化的AI降本提效方案和团队培训服务",
       price: "1-5万元/场",
       bgImage: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&auto=format&fit=crop",
