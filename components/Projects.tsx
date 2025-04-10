@@ -161,7 +161,7 @@ export default function Projects() {
   const courses = [
     {
       title: "从0开始：AI 开发个人网站",
-      url: "/courses/ai-website",
+      // url: "/courses/ai-website",
       description: "从AI开发网站、部署网站上线、到优化网站访问等，让您搭建完全属于自己的个人网站",
       bgImage: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&auto=format&fit=crop",
       category: 'course' as const
