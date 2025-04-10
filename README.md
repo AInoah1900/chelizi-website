@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Chelizi 官方网站
+
+这是一个基于 Next.js 和 Tailwind CSS 构建的现代化响应式网站，展示公司的产品、课程和服务。
+
+## 功能特点
+
+- 响应式设计，适配各种屏幕尺寸
+- 现代化 UI 界面，支持动画效果
+- 首页产品、课程和服务卡片展示
+- 卡片支持点击跳转到详细页面
+- 联系悬浮按钮
+
 ## Getting Started
 
 First, run the development server:
