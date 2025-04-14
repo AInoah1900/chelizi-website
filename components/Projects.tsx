@@ -143,17 +143,17 @@ export default function Projects() {
       category: 'product' as const
     },
     {
+      title: "AI Coder 开发网站",
+      url: "https://www.ai-devs.help/",
+      description: "帮助新手小白提升使用AI的能力",
+      bgImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop",
+      category: 'product' as const
+    },
+    {
       title: "职业规划大师",
       // url: "/products/career-planner",
       description: "通过大数据筛选符合您当前状况的职位，并给予针对性的未来职业规划建议",
       bgImage: "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?w=800&auto=format&fit=crop",
-      category: 'product' as const
-    },
-    {
-      title: "AI Coder 学习网站",
-      // url: "/products/ai-coder",
-      description: "帮助新手小白提升使用AI的能力",
-      bgImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop",
       category: 'product' as const
     }
   ];
